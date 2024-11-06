@@ -1,6 +1,6 @@
 Hey user, how to install:
 
-Click on the "FNAPI" file and an installation will start in your browser, unzip it on your computer.
+Click on "code" on github and then "download zip" and it will start an installation in your browser, unzip it on your computer.
 
 PYTHON (to launch the APP)
 
