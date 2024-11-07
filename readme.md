@@ -15,4 +15,4 @@ The APP will be ready, any bugs please report to https://x.com/SpireFNBR, thanks
 
 Next update:
 
-Hacaer un .exe, suggestions to @SpireFNBR in "x" before Twitter
+Made the files  .exe, suggestions to @SpireFNBR in "x" before Twitter
