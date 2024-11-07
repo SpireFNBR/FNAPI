@@ -1,6 +1,6 @@
 Hi user, how to install:
 
-Click on "code" on github and then "download zip" and it will start an installation in your browser, unzip it on your computer.
+Click on "code" on github and then "download zip" and it will start an installation in your browser, unzip it on your computer, in the archive there is another file, zip, unzip it, the code is in it..
 
 PYTHON & VISUAL STUDIO CODE (to start the APP)
 
